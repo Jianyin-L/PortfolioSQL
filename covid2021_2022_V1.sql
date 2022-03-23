@@ -1,4 +1,4 @@
--- Data Exploration
+-- Data Exploration for Covid dataset
 
 -- Covid Deaths
 SELECT *
