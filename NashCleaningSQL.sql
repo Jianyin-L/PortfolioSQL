@@ -1,5 +1,5 @@
 /*
-Cleaning Data using SQL
+Data Cleaning & Manupulation using SQL
 */
 
 SELECT *
